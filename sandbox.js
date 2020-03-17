@@ -4,6 +4,6 @@ function setup() {
 
 function draw() {
 // put drawing code here
-    console.log("Hello, world!")
+    console.log("Hello, World!")
 }
 
